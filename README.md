@@ -22,6 +22,6 @@ I'm a passionate developer with a keen interest in software development, open-so
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/)
 - [Twitter](https://twitter.com/NotZyka)
-- [Portfolio](https://github.com/zB3nz/))
+- [Portfolio](https://github.com/zB3nz/)
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate or just have a chat.
